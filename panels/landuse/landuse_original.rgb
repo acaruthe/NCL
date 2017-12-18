@@ -1,0 +1,21 @@
+ncolors=33
+#  r   g   b
+ 255   0   0   Urban and Built-Up Land
+ 252 252  80   Dryland Cropland and Pasture
+ 200 255 108   Irrigated Cropland and Pasture
+ 253 237 116   Mixed Dryland/Irrigated Cropland and Pasture
+ 153 148  80   Cropland/Grassland Mosaic
+ 183 200  80   Cropland/Woodland Mosaic
+ 244 181 102   Grassland
+ 187 143 144   Shrubland
+ 246 221 180   Mixed Shrubland/Grassland
+ 254 215   0   Savanna
+ 161 245 159   Deciduous Broadleaf Forest
+ 157 204  48   Deciduous Needleleaf Forest
+  34 140  39   Evergreen Broadleaf Forest
+  47 207  47   Evergreen Needleleaf Forest
+ 144 187 144   Mixed Forest
+ 136 205 221   Water Bodies
+  70 131 178   Herbaceous Wetland
+  70 201 178   Wooded Wetland
+ 190 190 190   Barren or Sparsely Vegetated
